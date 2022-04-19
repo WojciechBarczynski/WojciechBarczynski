@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WojciechBarczynski
+- 👀 I’m interested in fields combing math and computer science, such as: big data analysis, machine learning, computer simulations and 3D graphics.
+- 🌱 I’m currently learning C, Python (Pandas) and math for data science.
+- 📫 How to reach me: email: barczynski.w@gmail.com  linkedin.com/in/wojciechbarczynski2002/
