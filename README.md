@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @WojciechBarczynski
 - 👀 I’m interested in fields combing math and computer science, such as: big data analysis, machine learning, computer simulations and 3D graphics.
-- 📫 How to reach me: email: barczynski.w@gmail.com  linkedin.com/in/wojciechbarczynski2002/
+- 🧑‍💻 I'm currently studing [Computer Science at AGH UST](https://sylabusy.agh.edu.pl/en/1/2/18/1/4/4/13) and working at [Software Mansion](https://swmansion.com/) on [Membrane Framework](https://membrane.stream/)
+- 📫 How to reach me: email: barczynski.w@gmail.com, [linkedin](https://www.linkedin.com/in/wojciechbarczynski2002/)
