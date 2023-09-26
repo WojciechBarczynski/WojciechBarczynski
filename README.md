@@ -11,7 +11,7 @@
 </div>
 
 <br>
-<h3 align="center">I'm exipenced with:</h2>
+<h3 align="center">I'm exipenced in:</h3>
 <div align="center">
   Languages:
   
@@ -22,7 +22,7 @@
   ![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,vscode)
 </div>
 
-<h3 align="center">I know thing or two about:</h2>
+<h3 align="center">I know thing or two about:</h3>
 <div align="center">
   Languages:
   
