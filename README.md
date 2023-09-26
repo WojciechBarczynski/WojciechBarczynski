@@ -1,7 +1,7 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Wojtek</h1>
-
+<h1 align="center">Hi, I'm Wojtek </h1>
 <br>
 <h2 align="center>About me:</h2>
+<br>
   
 - 🧑‍💻 I'm a Software Engineer at [Software Mansion](https://swmansion.com/community/open-source/), mostly working on open-source multimedia processing and streaming tools
 - 📖 I'm a [third year Computer Scince student at AGH Universuty of Krakow](https://sylabusy.agh.edu.pl/en/1/2/17/1/4/4/13) and a [first year Computer Mathematics student at Jagiellonian University](https://sylabus.uj.edu.pl/en/5/1/2/19/91?masterElement=19)
