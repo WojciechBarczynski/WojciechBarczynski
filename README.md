@@ -7,7 +7,7 @@
   - 📖 I'm a [third year Computer Scince student at AGH Universuty of Krakow](https://sylabusy.agh.edu.pl/en/1/2/17/1/4/4/13) and a [first year Computer Mathematics student at Jagiellonian University](https://sylabus.uj.edu.pl/en/5/1/2/19/91?masterElement=19)
   - 💻 I'm interested in fields combining software engineering, computer science and mathemathics
   - 👋 How to reach me: email: barczynski.w@gmail.com, [linkedin](https://www.linkedin.com/in/wojciechbarczynski2002/)
-  - <img src="https://skillicons.dev/icons?i=rust" width=10> Favorite language: Rust 😃
+  - <img src="https://skillicons.dev/icons?i=rust" width=15> Favorite language: Rust 😃
 </div>
 
 <br>
