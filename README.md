@@ -111,7 +111,7 @@
 <th>
 <div align="center">
 
-[![Profile Stats](https://awesome-github-stats.azurewebsites.net/user-stats/WojciechBarczynski?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+![Profile Stats](https://awesome-github-stats.azurewebsites.net/user-stats/WojciechBarczynski?cardType=github&theme=radical&preferLogin=false)
 </div>
 </th>
 </table>
