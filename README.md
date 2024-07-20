@@ -36,63 +36,6 @@
 </div>
 
 <br>
-<h2 align="center">Some of my projects:</h2>
-
-<div align="center">
-<table>
-<tr>
-<th>
-<div align="center">
-<h3>LiveCompositor</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=membraneframework&repo=live_compositor&theme=radical)](https://github.com/membraneframework/live_compositor)
-</div>
-</th>
-<th>
-<div align="center">
-<h3>Membrane LiveCompositor Plugin</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=membraneframework&repo=membrane_live_compositor_plugin&theme=radical)](https://github.com/membraneframework/membrane_live_compositor_plugin)
-</div>
-</th>
-</tr>
-<tr>
-<td>
-<div align="center">
-<h3>LevelMind</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WojciechBarczynski&repo=BITE_HACK&theme=radical)](https://github.com/WojciechBarczynski/BITE_HACK)
-</div>
-</td>
-<td>
-<div align="center">
-<h3>FrAgile</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WojciechBarczynski&repo=FrAgile&theme=radical)](https://github.com/WojciechBarczynski/FrAgile)
-</div>
-</div>
-</td>
-</tr>
-<tr>
-<td>
-<div align="center">
-<h3>FocusApp</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WojciechBarczynski&repo=Hacknarok2024&theme=radical)](https://github.com/WojciechBarczynski/Hacknarok2024)
-</div>
-</td>
-
-<td>
-<div align="center">
-<h3>Quit It!</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WojciechBarczynski&repo=BITEhack2024&theme=radical)](https://github.com/WojciechBarczynski/BITEhack2024)
-</td>
-</tr>
-</table>
-</div>
-
-<br>
 <h2 align="center">Stats</h2>
 
 <div align="center">
